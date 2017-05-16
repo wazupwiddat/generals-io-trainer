@@ -2,7 +2,7 @@
 
 
 
-To run bot:
+To run trainer:
 
 clone repository
 1.  execute ./gradlew build
