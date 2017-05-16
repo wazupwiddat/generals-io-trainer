@@ -11,7 +11,7 @@ clone repository
 Expects the replay zip file location here:
 `/trainingdata/generals.io replays.zip`
 
-* Defaults to saving a single file per replay for each move.
+* Defaults to saving a single file per replay.
 * Currently only implemented to save the map data prior to move.
 * Map data is to be used as a 30 x 30 x 7  matrix for use in a convolutional NN
 
